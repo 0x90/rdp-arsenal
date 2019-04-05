@@ -1,0 +1,48 @@
+[submodule "rdesktop-old"]
+	path = rdesktop-old
+	url = https://github.com/z0x010/rdesktop
+[submodule "tstunnels"]
+	path = tstunnels
+	url = https://github.com/normanr/tstunnels
+[submodule "rdp-tunnel"]
+	path = rdp-tunnel
+	url = https://github.com/NotMedic/rdp-tunnel
+[submodule "TCPSocket"]
+	path = TCPSocket
+	url = https://github.com/z7059652/TCPSocket
+[submodule "sleipnir"]
+	path = sleipnir
+	url = https://github.com/nccgroup/sleipnir
+[submodule "loki"]
+	path = loki
+	url = https://github.com/nccgroup/loki
+[submodule "Fenrir"]
+	path = Fenrir
+	url = https://github.com/nccgroup/Fenrir
+[submodule "pyrdp"]
+	path = pyrdp
+	url = https://github.com/GoSecure/pyrdp
+[submodule "RdpChannel"]
+	path = RdpChannel
+	url = https://github.com/awakecoding/RdpChannel
+[submodule "VcTest"]
+	path = VcTest
+	url = https://github.com/SergiusTheBest/VcTest
+[submodule "ogon-channels"]
+	path = ogon-channels
+	url = https://github.com/ogon-project/ogon-channels
+[submodule "rdp2tcp"]
+	path = rdp2tcp
+	url = https://github.com/Synacktiv/rdp2tcp
+[submodule "rdp-sec-check"]
+	path = rdp-sec-check
+	url = https://github.com/portcullislabs/rdp-sec-check
+[submodule "rduserenum"]
+	path = rduserenum
+	url = https://github.com/skorov/rduserenum
+[submodule "rdpt"]
+	path = rdpt
+	url = https://github.com/David-xu/rdpt
+[submodule "RDP_ngrok"]
+	path = RDP_ngrok
+	url = https://github.com/hhhhhojeihsu/RDP_ngrok
