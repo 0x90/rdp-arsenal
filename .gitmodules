@@ -46,3 +46,15 @@
 [submodule "RDP_ngrok"]
 	path = RDP_ngrok
 	url = https://github.com/hhhhhojeihsu/RDP_ngrok
+[submodule "tprdp-replay"]
+	path = tprdp-replay
+	url = https://github.com/tp4a/tprdp-replay
+[submodule "TsTeleport"]
+	path = TsTeleport
+	url = https://github.com/awakecoding/TsTeleport
+[submodule "UniversalDVC"]
+	path = UniversalDVC
+	url = https://github.com/earthquake/UniversalDVC
+[submodule "UniversalDVC-Tunel-RDP"]
+	path = UniversalDVC-Tunel-RDP
+	url = https://github.com/Soldie/UniversalDVC-Tunel-RDP
