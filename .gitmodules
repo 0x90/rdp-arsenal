@@ -58,3 +58,15 @@
 [submodule "UniversalDVC-Tunel-RDP"]
 	path = UniversalDVC-Tunel-RDP
 	url = https://github.com/Soldie/UniversalDVC-Tunel-RDP
+[submodule "RdpRemoteImageReview"]
+	path = RdpRemoteImageReview
+	url = https://github.com/Level0r0s/RdpRemoteImageReview
+[submodule "rdp_build"]
+	path = rdp_build
+	url = https://github.com/rincebrain/rdp_build
+[submodule "WTSPlugin1"]
+	path = WTSPlugin1
+	url = https://github.com/dranger003/WTSPlugin1
+[submodule "webRDP"]
+	path = webRDP
+	url = https://github.com/gonewbee/webRDP
