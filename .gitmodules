@@ -40,9 +40,6 @@
 [submodule "rduserenum"]
 	path = rduserenum
 	url = https://github.com/skorov/rduserenum
-[submodule "rdpt"]
-	path = rdpt
-	url = https://github.com/David-xu/rdpt
 [submodule "RDP_ngrok"]
 	path = RDP_ngrok
 	url = https://github.com/hhhhhojeihsu/RDP_ngrok
