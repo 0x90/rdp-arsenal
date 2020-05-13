@@ -70,3 +70,168 @@
 [submodule "webRDP"]
 	path = webRDP
 	url = https://github.com/gonewbee/webRDP
+[submodule "SocksOverRDP"]
+	path = SocksOverRDP
+	url = https://github.com/nccgroup/SocksOverRDP
+[submodule "SocksoverRDP"]
+	path = SocksoverRDP
+	url = https://github.com/netscylla/SocksoverRDP
+[submodule "RDPassSpray"]
+	path = RDPassSpray
+	url = https://github.com/xFreed0m/RDPassSpray
+[submodule "CVE-2019-0708"]
+	path = CVE-2019-0708
+	url = https://github.com/umarfarook882/CVE-2019-0708
+[submodule "rdpscraper"]
+	path = rdpscraper
+	url = https://github.com/x90skysn3k/rdpscraper
+[submodule "AutoRDPwn"]
+	path = AutoRDPwn
+	url = https://github.com/JoelGMSec/AutoRDPwn
+[submodule "CVE-2019-0708-scanner"]
+	path = CVE-2019-0708-scanner
+	url = https://github.com/zerosum0x0/CVE-2019-0708
+[submodule "SharpRDP"]
+	path = SharpRDP
+	url = https://github.com/0xthirteen/SharpRDP
+[submodule "bmc-tools"]
+	path = bmc-tools
+	url = https://github.com/ANSSI-FR/bmc-tools
+[submodule "Seth"]
+	path = Seth
+	url = https://github.com/SySS-Research/Seth
+[submodule "List-RDP-Connections-History"]
+	path = List-RDP-Connections-History
+	url = https://github.com/3gstudent/List-RDP-Connections-History
+[submodule "redemption"]
+	path = redemption
+	url = https://github.com/wallix/redemption
+[submodule "rdpsign"]
+	path = rdpsign
+	url = https://github.com/nfedera/rdpsign
+[submodule "RDP-Users"]
+	path = RDP-Users
+	url = https://github.com/MicroGenesis5/RDP-Users
+[submodule "RDP_SessionHijacking"]
+	path = RDP_SessionHijacking
+	url = https://github.com/crazywifi/RDP_SessionHijacking
+[submodule "rdpupload"]
+	path = rdpupload
+	url = https://github.com/cornerpirate/rdpupload
+[submodule "EventLogMaster"]
+	path = EventLogMaster
+	url = https://github.com/QAX-A-Team/EventLogMaster
+[submodule "SharpDoor"]
+	path = SharpDoor
+	url = https://github.com/infosecn1nja/SharpDoor
+[submodule "RDPShare"]
+	path = RDPShare
+	url = https://github.com/SimulPiscator/RDPShare
+[submodule "RDPProxyLinkBuilder"]
+	path = RDPProxyLinkBuilder
+	url = https://github.com/BinaryWasp/RDPProxyLinkBuilder
+[submodule "BlueRDPSploit"]
+	path = BlueRDPSploit
+	url = https://github.com/independentcod/BlueRDPSploit
+[submodule "PeekABoo"]
+	path = PeekABoo
+	url = https://github.com/Viralmaniar/PeekABoo
+[submodule "bluekeep-exploit"]
+	path = bluekeep-exploit
+	url = https://github.com/TinToSer/bluekeep-exploit
+[submodule "cacdec"]
+	path = cacdec
+	url = https://github.com/airbus-cert/cacdec
+[submodule "rdpy-rdpfingerprint"]
+	path = rdpy-rdpfingerprint
+	url = https://github.com/droberson/rdpy-rdpfingerprint
+[submodule "rdpy"]
+	path = rdpy
+	url = https://github.com/aerissecure/rdpy
+[submodule "rdpwn"]
+	path = rdpwn
+	url = https://github.com/wumb0/rdpwn
+[submodule "RDPwnFinder"]
+	path = RDPwnFinder
+	url = https://github.com/rickoooooo/RDPwnFinder
+[submodule "rdp2tcp-server-python"]
+	path = rdp2tcp-server-python
+	url = https://github.com/dmitri88/rdp2tcp-server-python
+[submodule "VrdpBruter"]
+	path = VrdpBruter
+	url = https://github.com/Fl3t/VrdpBruter
+[submodule "keypirinha-rdp"]
+	path = keypirinha-rdp
+	url = https://github.com/DrorHarari/keypirinha-rdp
+[submodule "RDP-PTH"]
+	path = RDP-PTH
+	url = https://github.com/D-Hutch/RDP-PTH
+[submodule "Windows_rdp_python"]
+	path = Windows_rdp_python
+	url = https://github.com/luckyaddress/Windows_rdp_python
+[submodule "py3rdp"]
+	path = py3rdp
+	url = https://github.com/RocsSun/py3rdp
+[submodule "Brute-RDP.py"]
+	path = Brute-RDP.py
+	url = https://github.com/Joao-b4/Brute-RDP.py
+[submodule "CredSSPY"]
+	path = CredSSPY
+	url = https://github.com/croustibaie/CredSSPY
+[submodule "Check-if-user-online"]
+	path = Check-if-user-online
+	url = https://github.com/iliagred/Check-if-user-online
+[submodule "Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit"]
+	path = Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit
+	url = https://github.com/krivegasa/Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit
+[submodule "Malduino_Win10_Persistent_Backdoor_With_Special_Sauce"]
+	path = Malduino_Win10_Persistent_Backdoor_With_Special_Sauce
+	url = https://github.com/ll3N1GmAll/Malduino_Win10_Persistent_Backdoor_With_Special_Sauce
+[submodule "Darkbyte"]
+	path = Darkbyte
+	url = https://github.com/JoelGMSec/Darkbyte
+[submodule "rdpy-lib"]
+	path = rdpy-lib
+	url = https://github.com/devopssec/rdpy
+[submodule "FastTunnel"]
+	path = FastTunnel
+	url = https://github.com/SpringHgui/FastTunnel
+[submodule "RDPPrinterPortMonitor"]
+	path = RDPPrinterPortMonitor
+	url = https://github.com/yannicowie/RDPPrinterPortMonitor
+[submodule "RdpThief"]
+	path = RdpThief
+	url = https://github.com/0x09AL/RdpThief
+[submodule "Lazy-RDP"]
+	path = Lazy-RDP
+	url = https://github.com/getdrive/Lazy-RDP
+[submodule "ms-rdp-nat-traverse"]
+	path = ms-rdp-nat-traverse
+	url = https://github.com/leo-py/ms-rdp-nat-traverse
+[submodule "BruteDum"]
+	path = BruteDum
+	url = https://github.com/GitHackTools/BruteDum
+[submodule "cve_2019_0708_bluekeep_rce"]
+	path = cve_2019_0708_bluekeep_rce
+	url = https://github.com/NAXG/cve_2019_0708_bluekeep_rce
+[submodule "BKScan"]
+	path = BKScan
+	url = https://github.com/nccgroup/BKScan
+[submodule "rdpwrap_patch"]
+	path = rdpwrap_patch
+	url = https://github.com/sazczmh/rdpwrap_patch
+[submodule "rdpwrap-autoupdate"]
+	path = rdpwrap-autoupdate
+	url = https://github.com/LCW0NJUPT/rdpwrap-autoupdate
+[submodule "rdpwrap"]
+	path = rdpwrap
+	url = https://github.com/fre4kyC0de/rdpwrap
+[submodule "RDPWrap-privacy"]
+	path = RDPWrap-privacy
+	url = https://github.com/SobieskiCodes/RDPWrap
+[submodule "aspia"]
+	path = aspia
+	url = https://github.com/dchapyshev/aspia
+[submodule "iamwizstick"]
+	path = iamwizstick
+	url = https://github.com/gaincds/iamwizstick
