@@ -232,3 +232,6 @@
 [submodule "iamwizstick"]
 	path = iamwizstick
 	url = https://github.com/gaincds/iamwizstick
+[submodule "rdpt"]
+	path = rdpt
+	url = https://github.com/David-xu/rdpt
